@@ -1,0 +1,11 @@
+.abc
+{
+    box-shadow: teal 0px 5px 15px;
+}
+
+.abc :hover
+{
+    background-color: purple;
+    
+
+} 
